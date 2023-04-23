@@ -18,7 +18,7 @@ func main() {
 
 	var rootCmd = &cobra.Command{
 		Use:     "spotify_dl",
-		Version: "0.0.2",
+		Version: "0.0.3",
 		Short:   "spotify_dl is a awesome music downloader written in pure go",
 		Long:    `spotify_dl lets you download albums and playlists and tags them for you.`,
 		Run: func(cmd *cobra.Command, args []string) {
