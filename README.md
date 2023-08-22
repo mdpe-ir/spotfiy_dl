@@ -6,6 +6,8 @@ Spotifydl is a spotify media downloader.
 It uses Youtube as the audio source and Spotify API for playlist/album/track details.
 
 --- 
+To download the latest version, please go to the [Releases](https://github.com/mdpe-ir/spotfiy_dl/releases).
+--- 
 
 Make sure you have golang, ffmpeg installed.
 
